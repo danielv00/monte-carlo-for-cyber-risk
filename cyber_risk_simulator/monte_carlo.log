@@ -1,0 +1,2088 @@
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=301, num_simulations=10000
+DEBUG:root:stats_cache is being reloaded
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=301, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:saving simulation results of CyberRiskSimulator to csv
+INFO:root:Initializing AnalysisService.
+DEBUG:root:Generating synthetic companies.
+DEBUG:root:Saving synthetic companies to database.
+DEBUG:root:Running simulations.
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=780.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=179.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=795.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=868.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=8.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=417.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=62.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=801.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=571.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=430.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=769.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=161.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=190.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=515.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=49.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=706.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=178.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=414.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=421.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=553.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=347.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=292.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=787.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=431.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=858.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=785.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=290.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=946.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=733.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=371.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=924.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=241.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=992.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=970.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=283.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=368.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=18.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=946.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=353.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=505.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=849.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=130.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=734.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=632.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=111.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=294.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=44.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=533.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=814.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=880.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=152.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=937.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=863.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=374.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=398.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=441.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=806.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=913.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=328.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=510.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=48.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=114.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=285.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=132.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=778.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=30.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=713.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=522.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=165.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=810.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=512.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=847.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=488.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=148.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=87.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=277.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=99.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=807.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=731.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=800.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=661.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=246.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=854.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=163.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=819.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=766.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=488.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=395.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=204.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=448.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=991.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=220.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=767.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=35.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=947.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=893.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=342.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=63.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=408.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=119.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=827.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=831.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=766.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=863.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=746.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=428.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=560.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=689.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=475.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=154.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=980.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=76.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=60.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=64.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=226.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=100.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=772.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=652.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=547.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=736.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=5.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=539.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=992.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=263.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=27.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=265.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=535.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=809.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=674.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=511.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=755.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=593.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=385.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=493.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=354.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=725.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=380.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=518.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=603.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=132.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=881.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=786.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=584.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=511.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=671.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=239.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=768.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=463.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=784.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=4.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=549.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=483.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=306.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=371.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=236.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=863.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=604.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=991.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=913.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=717.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=650.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=942.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=357.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=673.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=727.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=934.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=52.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=593.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=815.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=781.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=9.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=215.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=460.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=245.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=800.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=388.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=637.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=353.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=4.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=910.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=740.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=298.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=1.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=371.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=35.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=241.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=265.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=795.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=139.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=727.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=816.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=600.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=726.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=726.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=806.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=616.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=40.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=105.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=978.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=491.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=705.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=188.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=633.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=494.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=516.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=651.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=303.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=972.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=623.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=732.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=655.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=937.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=272.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=411.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=386.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=793.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=336.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=973.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=498.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=133.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=148.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=906.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=206.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=14.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=133.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=777.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=492.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=463.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=627.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=120.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=759.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=715.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=377.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=974.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=394.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=317.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=113.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=503.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=894.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=796.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=233.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=258.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=805.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=184.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=545.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=212.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=201.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=653.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=914.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=122.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=121.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=850.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=543.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=422.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=814.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=608.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=981.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=495.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=476.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=115.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=954.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=135.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=896.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=149.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=982.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=429.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=92.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=557.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=742.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=155.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=406.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=674.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=33.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=269.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=407.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=384.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=981.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=238.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=681.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=659.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=154.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=581.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=366.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=371.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=954.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=469.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=235.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=734.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=210.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=349.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=989.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=586.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=349.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=707.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=300.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=703.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=376.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=257.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=736.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=153.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=126.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=114.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=465.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=625.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=561.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=255.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=519.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=207.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=803.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=121.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=947.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=622.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=69.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=217.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=404.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=674.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=396.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=938.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=977.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=843.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=629.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=494.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=536.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=463.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=13.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=357.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=128.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=664.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=479.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=82.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=109.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=897.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=659.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=358.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=980.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=779.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=240.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=725.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=639.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=491.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=97.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=517.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=94.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=593.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=745.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=957.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=931.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=79.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=401.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=745.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=75.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=998.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=247.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=403.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=246.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=128.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=218.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=734.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=203.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=210.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=989.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=101.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=546.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=517.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=867.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=704.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=779.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=64.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=881.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=289.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=831.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=196.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=964.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=632.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=384.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=497.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=525.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=853.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=85.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=295.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=980.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=647.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=649.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=416.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=103.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=384.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=483.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=78.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=885.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=661.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=916.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=617.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=699.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=991.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=45.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=380.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=581.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=730.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=991.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=176.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=589.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=831.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=744.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=470.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=774.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=146.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=57.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=461.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=524.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=350.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=275.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=408.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=231.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=553.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=476.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=919.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=905.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=54.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=27.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=303.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=481.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=782.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=586.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=973.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=619.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=277.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=442.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=767.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=82.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=336.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=32.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=317.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=836.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=241.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=511.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=96.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=704.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=726.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=491.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=82.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=653.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=520.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=544.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=566.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=841.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=376.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=256.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=331.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=102.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=764.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=568.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=508.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=870.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=677.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=619.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=707.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=505.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=409.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=1000.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=869.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=750.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=841.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=233.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=423.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=856.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=116.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=178.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=53.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=249.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=984.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=45.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=930.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=499.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=502.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=759.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=527.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=780.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=395.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=482.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=186.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=433.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=250.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=57.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=366.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=22.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=592.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=205.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=966.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=514.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=701.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=556.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=932.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=452.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=348.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=276.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=382.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=812.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=592.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=996.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=293.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=746.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=736.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=385.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=63.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=318.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=202.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=740.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=105.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=531.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=245.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=414.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=356.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=590.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=650.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=403.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=553.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=263.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=763.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=527.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=642.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=454.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=641.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=298.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=661.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=695.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=98.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=891.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=31.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=509.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=381.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=684.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=969.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=157.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=528.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=555.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=545.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=166.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=402.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=820.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=976.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=259.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=751.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=156.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=775.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=616.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=810.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=742.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=856.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=535.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=237.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=441.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=296.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=851.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=515.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=543.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=377.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=375.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=439.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=412.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=165.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=806.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=958.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=415.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=439.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=843.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=248.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=235.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=600.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=323.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=97.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=265.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=394.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=816.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=335.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=759.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=777.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=612.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=929.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=91.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=87.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=87.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=343.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=353.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=88.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=614.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=799.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=310.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=803.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=38.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=493.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=262.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=719.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=261.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=785.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=993.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=911.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=977.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=234.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=634.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=79.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=939.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=360.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=887.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=424.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=874.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=529.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=299.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=471.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=913.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=359.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=855.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=742.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=267.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=265.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=556.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=393.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=668.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=841.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=667.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=516.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=874.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=898.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=393.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=378.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=443.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=313.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=734.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=421.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=74.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=546.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=96.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=193.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=551.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=585.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=578.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=531.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=489.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=91.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=150.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=393.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=406.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=875.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=996.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=339.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=787.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=440.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=986.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=272.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=264.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=42.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=300.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=692.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=705.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=99.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=629.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=928.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=462.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=968.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=886.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=305.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=48.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=128.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=224.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=740.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=768.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=993.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=686.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=851.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=918.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=890.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=42.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=116.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=669.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=49.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=136.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=103.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=664.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=527.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=908.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=480.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=465.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=397.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=718.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=339.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=562.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=369.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=28.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=902.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=801.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=482.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=617.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=686.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=112.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=247.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=519.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=600.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=927.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=778.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=774.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=344.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=177.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=552.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=603.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=30.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=403.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=102.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=861.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=785.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=767.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=298.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=941.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=212.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=896.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=924.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=25.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=395.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=811.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=168.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=426.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=880.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=30.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=146.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=130.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=592.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=63.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=193.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=170.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=180.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=127.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=799.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=56.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=611.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=290.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=540.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=918.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=466.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=680.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=488.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=717.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=681.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=874.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=653.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=242.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=691.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=661.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=292.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=16.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=237.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=212.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=24.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=51.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=915.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=278.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=736.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=291.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=606.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=448.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=158.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=414.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=839.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=581.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=15.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=572.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=523.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=64.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=658.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=930.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=703.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=549.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=770.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=783.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=643.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=977.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=747.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=899.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=698.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=956.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=679.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=954.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=470.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=101.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=341.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=52.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=145.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=115.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=759.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=113.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=673.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=517.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=533.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=483.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=746.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=560.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=523.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=127.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=95.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=760.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=473.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=318.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=775.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=345.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=273.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=307.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=272.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=543.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=166.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=286.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=294.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=385.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=430.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=822.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=10.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=963.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=433.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=943.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=778.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=690.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=340.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=43.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=656.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=564.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=145.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=937.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=99.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=586.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=278.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=767.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=65.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=856.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=963.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=306.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=25.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=237.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=100.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=122.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=802.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=953.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=541.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=391.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=599.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=140.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=84.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=430.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=804.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=981.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=282.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=905.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=741.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=357.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=177.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=522.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=882.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=747.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=219.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=72.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=70.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=151.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=857.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=296.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=424.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=296.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=312.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=523.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=153.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=794.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=523.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=904.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=533.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=860.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=930.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=75.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=799.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=286.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=265.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=870.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=413.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=291.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=90.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=373.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=279.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=822.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=219.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=992.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=185.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=754.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=168.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=260.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=594.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=685.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=294.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=128.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=889.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=442.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=828.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=415.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=480.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=942.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=527.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=180.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=328.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=371.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=625.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=947.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=676.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=873.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=136.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=250.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=90.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=4.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=575.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=338.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=217.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=33.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=310.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=728.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=26.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=739.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=482.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=946.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=77.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=689.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=904.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=649.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=92.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=806.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=193.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=47.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=918.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=750.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=771.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=471.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=886.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=322.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=965.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=489.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=395.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=233.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=944.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=48.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=352.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=199.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=704.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=159.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=677.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=226.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=748.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=555.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=887.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=779.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=47.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=683.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=809.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=342.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=220.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=72.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=954.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=768.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=230.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=536.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=607.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=346.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=126.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=748.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=132.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=347.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=527.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=981.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=876.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=545.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=795.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=333.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=688.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=334.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=603.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=552.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=385.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=499.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=256.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=628.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=796.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=150.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=119.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=710.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=575.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=848.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=40.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=651.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=613.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=408.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=308.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=888.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=575.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=198.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=481.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=201.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.MANUFACTURING: 4>, revenue=643.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.HEALTHCARE: 1>, revenue=97.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.FINANCE: 2>, revenue=389.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.RETAIL: 3>, revenue=292.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Init of CyberRiskSimulator with industry=<Industry.CONSTRUCTION: 5>, revenue=70.0, num_simulations=10000
+DEBUG:root:started run_simulation of CyberRiskSimulator
+DEBUG:root:Saving simulation results to database.
+DEBUG:root:Retrieving simulation results from database.
+DEBUG:root:Retrieving synthetic companies from database.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 836-925-791
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:5000
+DEBUG:root:start of get_results_by_id GET method for company_id='-3'
+DEBUG:root:executing query for company_id='-3'
+DEBUG:root:no company found
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2023 04:19:45] "[33mGET /get_results_by_id/-3 HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:http://127.0.0.1:5000 "GET /get_results_by_id/-3 HTTP/1.1" 404 34
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:5000
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2023 04:20:28] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:http://127.0.0.1:5000 "GET / HTTP/1.1" 200 55
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:5000
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2023 04:20:42] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:http://127.0.0.1:5000 "GET / HTTP/1.1" 200 55
+DEBUG:parso.cache:pickle loaded: C:\Users\ddd\.conda\envs\py311\Lib\site-packages\jedi\third_party\typeshed\stdlib\3\builtins.pyi
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:5000
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2023 04:20:50] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:http://127.0.0.1:5000 "GET / HTTP/1.1" 200 55
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:5000
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2023 04:21:02] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:http://127.0.0.1:5000 "GET / HTTP/1.1" 200 55
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:5000
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2023 04:21:05] "GET / HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:http://127.0.0.1:5000 "GET / HTTP/1.1" 200 55
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:5000
+DEBUG:root:start of get_results_by_id GET method for company_id='-3'
+DEBUG:root:no company found
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2023 04:22:38] "[33mGET /get_results_by_id/-3 HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:http://127.0.0.1:5000 "GET /get_results_by_id/-3 HTTP/1.1" 404 34
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:5000
+DEBUG:root:start of get_results_by_id GET method for company_id='4'
+DEBUG:root:executing query for company_id='4'
+INFO:root:average simulation cost for company_id='4' is: 180217168.16648653
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2023 04:22:54] "GET /get_results_by_id/4 HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:http://127.0.0.1:5000 "GET /get_results_by_id/4 HTTP/1.1" 200 52
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:5000
+DEBUG:root:start of get_results_by_segmentation GET method
+DEBUG:root:get_results_by_segmentation: revenue_bands_str=()
+DEBUG:root:get_results_by_segmentation: industries_str=()
+DEBUG:root:full query for results by segmentation: SELECT avg(mean_loss) FROM simulation_results WHERE company_id in (SELECT company_id
+               FROM synthetic_companies
+               WHERE industry IN () AND 
+               (revenue_usd < 0 ))
+ERROR:root:no companies found
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2023 04:23:27] "[33mGET /get_results_by_segmentation HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:http://127.0.0.1:5000 "GET /get_results_by_segmentation HTTP/1.1" 404 36
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:5000
+DEBUG:root:start of get_results_by_segmentation GET method
+DEBUG:root:get_results_by_segmentation: revenue_bands_str=('500M',)
+DEBUG:root:get_results_by_segmentation: industries_str=()
+DEBUG:root:get_revenue_boundaries_by_band: revenue_band.value='500M'
+DEBUG:root:full query for results by segmentation: SELECT avg(mean_loss) FROM simulation_results WHERE company_id in (SELECT company_id
+               FROM synthetic_companies
+               WHERE industry IN () AND 
+               (revenue_usd < 0 OR (? < revenue_usd AND revenue_usd <= ?)))
+ERROR:root:no companies found
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2023 04:23:56] "[33mGET /get_results_by_segmentation?revenue=500M HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:http://127.0.0.1:5000 "GET /get_results_by_segmentation?revenue=500M HTTP/1.1" 404 36
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:5000
+DEBUG:root:start of get_results_by_segmentation GET method
+DEBUG:root:get_results_by_segmentation: revenue_bands_str=('100M', '500M')
+DEBUG:root:get_results_by_segmentation: industries_str=('retail', 'healthcare')
+DEBUG:root:get_revenue_boundaries_by_band: revenue_band.value='100M'
+DEBUG:root:get_revenue_boundaries_by_band: revenue_band.value='500M'
+DEBUG:root:full query for results by segmentation: SELECT avg(mean_loss) FROM simulation_results WHERE company_id in (SELECT company_id
+               FROM synthetic_companies
+               WHERE industry IN (?,?) AND 
+               (revenue_usd < 0 OR (? < revenue_usd AND revenue_usd <= ? OR ? < revenue_usd AND revenue_usd <= ?)))
+INFO:root:average simulation cost for companies in the given segmentation is: 55376770.16564594
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2023 04:24:12] "GET /get_results_by_segmentation?revenue=100M&revenue=500M&industry=retail&industry=healthcare HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:http://127.0.0.1:5000 "GET /get_results_by_segmentation?revenue=100M&revenue=500M&industry=retail&industry=healthcare HTTP/1.1" 200 51

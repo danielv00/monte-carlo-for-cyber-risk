@@ -1,0 +1,92 @@
+{
+    "healthcare": {
+        "10M": {
+            "frequency": 0.2,
+            "cost": 1000000
+        },
+        "100M":{
+            "frequency": 0.3,
+            "cost": 20000000
+        }, 
+        "500M":{
+            "frequency": 0.4,
+            "cost": 60000000
+        }, 
+        "1B":{
+            "frequency": 0.4,
+            "cost": 120000000
+        }    
+    },
+    "finance": {
+        "10M": {
+            "frequency": 0.4,
+            "cost": 5000000
+        },
+        "100M": {
+            "frequency": 0.5,
+            "cost": 70000000
+        },
+        "500M": {
+            "frequency": 0.6,
+            "cost": 100000000
+        },
+        "1B": {
+            "frequency": 0.7,
+            "cost": 200000000
+        }
+    },
+    "retail": {
+        "10M": {
+            "frequency": 0.8,
+            "cost": 7000000
+        },
+        "100M": {
+            "frequency": 0.9,
+            "cost": 80000000
+        },
+        "500M": {
+            "frequency": 1.1,
+            "cost": 90000000
+        },
+        "1B": {
+            "frequency": 1,
+            "cost": 180000000
+        }
+    },   
+    "manufacturing": {
+        "10M": {
+            "frequency": 0.08,
+            "cost": 900000
+        },
+        "100M": {
+            "frequency": 0.23,
+            "cost": 40000000
+        },
+        "500M": {
+            "frequency": 0.4,
+            "cost": 80000000
+        },
+        "1B":{
+            "frequency": 0.7,
+            "cost": 145000000
+        }
+    },
+    "construction": {
+        "10M": {
+            "frequency": 0.01,
+            "cost": 700000
+        },
+        "100M": {
+            "frequency": 0.02,
+            "cost": 20000000
+        },
+        "500M": {
+            "frequency": 0.12,
+            "cost": 30000000
+        },
+        "1B": {
+            "frequency": 0.24,
+            "cost": 120000000
+        }
+    }
+}
